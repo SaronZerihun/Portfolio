@@ -1,0 +1,44 @@
+.about-img{
+    height: 175px;
+    width: 175px;
+    border-radius: 50%;
+    padding-bottom: 5px;
+}
+#About a {
+    text-decoration: none !important; 
+    color: black !important;
+}
+.ABOUT{
+    text-align: center;
+}
+    
+.technologies{
+    font-size: 14px;
+    color: deeppink;
+    margin-bottom: 14px;
+}
+    
+.icons{
+    margin-top: 20px;
+    font: size 30px; ;
+    
+} 
+ 
+
+
+
+
+/***************************
+PROJECT
+
+********************/
+#project{
+    margin: 60px auto;
+    width: 80%;
+}
+#project h2{
+    text-align: center;
+}
+
+
+
